@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radha-krish
 - 👀 I’m interested in  DataScience and MachineLearning and Algotrading
-- 🌱 I’m currently learning  DataScience
-- 💞️ I’m looking to collaborate on  Algotrading
+- 🌱 I’m currently building   DataScience projects and mern stack projects
+
 - 📫 How to reach me ... :
 -           you can reach me on radhakrish9347@gmail.com for any collabrative work 
 
